@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mukul Khanna | Pushkal Katara</title>
+    <link>https://pushkalkatara.github.io/author/mukul-khanna/</link>
+      <atom:link href="https://pushkalkatara.github.io/author/mukul-khanna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mukul Khanna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 15:37:49 +0530</lastBuildDate>
+    <image>
+      <url>https://pushkalkatara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mukul Khanna</title>
+      <link>https://pushkalkatara.github.io/author/mukul-khanna/</link>
+    </image>
+    
+    <item>
+      <title>URSim - Open Source Unmanned Underwater Vehicles Simulator</title>
+      <link>https://pushkalkatara.github.io/project/ursim/</link>
+      <pubDate>Wed, 30 Jan 2019 15:37:49 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/ursim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

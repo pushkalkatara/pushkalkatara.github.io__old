@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pushkal Katara</title>
+    <link>https://pushkalkatara.github.io/</link>
+      <atom:link href="https://pushkalkatara.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pushkal Katara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 16:05:49 +0530</lastBuildDate>
+    <image>
+      <url>https://pushkalkatara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pushkal Katara</title>
+      <link>https://pushkalkatara.github.io/</link>
+    </image>
+    
+    <item>
+      <title>VisualStates - GSoC&#39;18@JdeRobot</title>
+      <link>https://pushkalkatara.github.io/project/visualstates/</link>
+      <pubDate>Sun, 08 Nov 2020 16:05:49 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/visualstates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Model Predictive Control For Visual Servoing</title>
+      <link>https://pushkalkatara.github.io/publication/corl/</link>
+      <pubDate>Thu, 15 Oct 2020 14:59:10 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/publication/corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>darknet_ros_v3</title>
+      <link>https://pushkalkatara.github.io/project/darknet_ros/</link>
+      <pubDate>Tue, 18 Jun 2019 15:48:34 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/darknet_ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URSim - Open Source Unmanned Underwater Vehicles Simulator</title>
+      <link>https://pushkalkatara.github.io/project/ursim/</link>
+      <pubDate>Wed, 30 Jan 2019 15:37:49 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/ursim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
