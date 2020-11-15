@@ -5,7 +5,7 @@
     <link>https://pushkalkatara.github.io/</link>
       <atom:link href="https://pushkalkatara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pushkal Katara</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 16:05:49 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 14:59:10 +0530</lastBuildDate>
     <image>
       <url>https://pushkalkatara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pushkal Katara</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>VisualStates - GSoC&#39;18@JdeRobot</title>
-      <link>https://pushkalkatara.github.io/project/visualstates/</link>
-      <pubDate>Sun, 08 Nov 2020 16:05:49 +0530</pubDate>
-      <guid>https://pushkalkatara.github.io/project/visualstates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Model Predictive Control For Visual Servoing</title>
       <link>https://pushkalkatara.github.io/publication/corl/</link>
       <pubDate>Thu, 15 Oct 2020 14:59:10 +0530</pubDate>
       <guid>https://pushkalkatara.github.io/publication/corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Navigation using DeepRL in 2/3/6 DOFs</title>
+      <link>https://pushkalkatara.github.io/project/rl6dof/</link>
+      <pubDate>Thu, 09 Jul 2020 00:40:32 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/rl6dof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisualStates - GSoC&#39;18@JdeRobot</title>
+      <link>https://pushkalkatara.github.io/project/visualstates/</link>
+      <pubDate>Fri, 08 Nov 2019 16:05:49 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/project/visualstates/</guid>
       <description></description>
     </item>
     

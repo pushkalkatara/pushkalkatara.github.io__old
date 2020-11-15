@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pushkalkatara.github.io/authors/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/tag/gsoc/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/author/jose-maria-canas-plaza/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/author/okan-asik/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/project/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/author/pushkal-katara/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/tags/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushkalkatara.github.io/project/visualstates/</loc>
-    <lastmod>2020-11-08T16:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pushkalkatara.github.io/publication-type/1/</loc>
     <lastmod>2020-10-15T14:59:10+05:30</lastmod>
   </url>
@@ -59,6 +14,11 @@
   
   <url>
     <loc>https://pushkalkatara.github.io/author/abhinav-gupta/</loc>
+    <lastmod>2020-10-15T14:59:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/authors/</loc>
     <lastmod>2020-10-15T14:59:10+05:30</lastmod>
   </url>
   
@@ -113,6 +73,21 @@
   </url>
   
   <url>
+    <loc>https://pushkalkatara.github.io/author/pushkal-katara/</loc>
+    <lastmod>2020-10-15T14:59:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/</loc>
+    <lastmod>2020-10-15T14:59:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/tags/</loc>
+    <lastmod>2020-10-15T14:59:10+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pushkalkatara.github.io/tag/visual-servoing/</loc>
     <lastmod>2020-10-15T14:59:10+05:30</lastmod>
   </url>
@@ -120,6 +95,36 @@
   <url>
     <loc>https://pushkalkatara.github.io/author/yvs-harish/</loc>
     <lastmod>2020-10-15T14:59:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/project/</loc>
+    <lastmod>2020-07-09T00:40:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/project/rl6dof/</loc>
+    <lastmod>2020-07-09T00:40:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/tag/gsoc/</loc>
+    <lastmod>2019-11-08T16:05:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/author/jose-maria-canas-plaza/</loc>
+    <lastmod>2019-11-08T16:05:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/author/okan-asik/</loc>
+    <lastmod>2019-11-08T16:05:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pushkalkatara.github.io/project/visualstates/</loc>
+    <lastmod>2019-11-08T16:05:49+05:30</lastmod>
   </url>
   
   <url>
