@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Nomaan Qureshi* | Pushkal Katara</title>
+    <link>https://pushkalkatara.github.io/author/m.-nomaan-qureshi/</link>
+      <atom:link href="https://pushkalkatara.github.io/author/m.-nomaan-qureshi/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Nomaan Qureshi*</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 14:59:10 +0530</lastBuildDate>
+    <image>
+      <url>https://pushkalkatara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Nomaan Qureshi*</title>
+      <link>https://pushkalkatara.github.io/author/m.-nomaan-qureshi/</link>
+    </image>
+    
+    <item>
+      <title>RTVS: A Lightweight Differentiable MPC Framework for Real-Time Visual Servoing</title>
+      <link>https://pushkalkatara.github.io/publication/iros/</link>
+      <pubDate>Thu, 15 Oct 2020 14:59:10 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/publication/iros/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
