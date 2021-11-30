@@ -5,7 +5,7 @@
     <link>https://pushkalkatara.github.io/</link>
       <atom:link href="https://pushkalkatara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pushkal Katara</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 14:59:10 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 May 2021 14:59:10 +0530</lastBuildDate>
     <image>
       <url>https://pushkalkatara.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pushkal Katara</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Deep Model Predictive Control For Visual Servoing</title>
-      <link>https://pushkalkatara.github.io/publication/corl/</link>
-      <pubDate>Thu, 15 Oct 2020 14:59:10 +0530</pubDate>
-      <guid>https://pushkalkatara.github.io/publication/corl/</guid>
+      <title>RTVS: A Lightweight Differentiable MPC Framework for Real-Time Visual Servoing</title>
+      <link>https://pushkalkatara.github.io/publication/iros/</link>
+      <pubDate>Sat, 15 May 2021 14:59:10 +0530</pubDate>
+      <guid>https://pushkalkatara.github.io/publication/iros/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RTVS: A Lightweight Differentiable MPC Framework for Real-Time Visual Servoing</title>
-      <link>https://pushkalkatara.github.io/publication/iros/</link>
+      <title>Deep Model Predictive Control For Visual Servoing</title>
+      <link>https://pushkalkatara.github.io/publication/corl/</link>
       <pubDate>Thu, 15 Oct 2020 14:59:10 +0530</pubDate>
-      <guid>https://pushkalkatara.github.io/publication/iros/</guid>
+      <guid>https://pushkalkatara.github.io/publication/corl/</guid>
       <description></description>
     </item>
     
